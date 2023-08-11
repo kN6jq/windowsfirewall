@@ -19,3 +19,8 @@ python3 add_firewall.py
 1. 输入规则名称
 
 2. 输入恶意ip列表文件路径
+
+
+# 备注
+
+使用火绒也可以，参考 https://bbs.huorong.cn/forum.php?mod=viewthread&tid=130248&page=1#pid834332
